@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add `gas_included_7702` metric from quote ([6363](https://github.com/MetaMask/core/pull/6363))
 
-
 ## [41.1.0]
 
 ### Added
